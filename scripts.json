@@ -15,14 +15,6 @@
             "version": "0.0.2",
             "author": "Mayne",
             "repo": "mayneyao/eidos-script-game-sync"
-        },
-        {
-            "id": "bangunmi-manager",
-            "name": "Bangumi Manager",
-            "description": "Manage your bangumi list.",
-            "version": "0.0.1",
-            "author": "Mayne",
-            "repo": "mayneyao/eidos-script-bangumi-manager"
         }
     ]
 }
