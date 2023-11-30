@@ -11,8 +11,8 @@
         {
             "id": "game-sync",
             "name": "Game Sync",
-            "description": "Sync game data to the server.",
-            "version": "0.0.1",
+            "description": "Sync game data from rawg.io",
+            "version": "0.0.2",
             "author": "Mayne",
             "repo": "mayneyao/eidos-script-game-sync"
         },
