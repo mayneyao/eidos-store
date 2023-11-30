@@ -1,6 +1,7 @@
 {
     "scripts": [
         {
+            "id": "eidos-publish",
             "name": "Eidos Publish",
             "description": "Make doc to the public, so you can share it with others.",
             "version": "0.0.2",
@@ -8,6 +9,7 @@
             "repo": "mayneyao/eidos-script-publish"
         },
         {
+            "id": "game-sync",
             "name": "Game Sync",
             "description": "Sync game data to the server.",
             "version": "0.0.1",
@@ -15,6 +17,7 @@
             "repo": "mayneyao/eidos-script-game-sync"
         },
         {
+            "id": "bangunmi-manager",
             "name": "Bangumi Manager",
             "description": "Manage your bangumi list.",
             "version": "0.0.1",

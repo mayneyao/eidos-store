@@ -15,6 +15,7 @@ Once you have developed your script, you can submit it to the Eidos Store for ot
 
 ```json
 {
+  "id": "<Id of the Script>",
   "name": "<Name of the Script>",
   "description": "<Brief Description of the Script>",
   "author": "<Your Name>",
