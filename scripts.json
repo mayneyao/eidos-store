@@ -1,7 +1,7 @@
 {
     "scripts": [
         {
-            "id": "eidos-publish",
+            "id": "publish",
             "name": "Eidos Publish",
             "description": "Make doc to the public, so you can share it with others.",
             "version": "0.0.2",
