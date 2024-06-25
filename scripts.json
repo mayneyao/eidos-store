@@ -16,5 +16,15 @@
             "author": "Mayne",
             "repo": "mayneyao/eidos-script-game-sync"
         }
+    ],
+    "apps": [
+        {
+            "id": "eidos-extension-importer",
+            "name": "Importer",
+            "description": "Import data from other sources.",
+            "author": "Mayne",
+            "version": "0.0.0",
+            "repo": "mayneyao/eidos-extension-importer"
+        }
     ]
 }
